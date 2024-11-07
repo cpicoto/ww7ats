@@ -32,3 +32,4 @@ Now launch the TVRplayer application from your desktop.
 Select scan from the menu and select WWATS to scan the 1255Mhz repeater output.
 
 If You have a good signal you should be able to see the repeater image.
+
