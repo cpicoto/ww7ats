@@ -1,9 +1,15 @@
 # ww7ats
 Instructions on how to receive the Western Washington Amateur Television Society with a USB Dongle
 
-You can use an Astrometa RTL based dongle, as the one available at the following link.
+You can use an Astrometa RTL based dongle, as the one available at the following links.
 
 https://www.amazon.com/Dongle-DVB-T2-DVB-T-Digital-Receiver/dp/B07TY5L32G
+
+https://www.aliexpress.us/item/3256801626129865.html
+
+https://www.aliexpress.us/item/3256806959029656.html
+
+
 
 Install the drivers and application from the Astrometa website
 
